@@ -4,7 +4,7 @@ Thank you for helping us keep Claude Code Templates and the systems they interac
 
 ## Reporting Security Issues
 
-This project is maintained by Daniel Avila.
+This project is maintained by the RemyLoveLogicAI organization.
 
 The security of our CLI tool and the templates it generates is our top priority. We appreciate the work of security researchers acting in good faith in identifying and reporting potential vulnerabilities.
 
@@ -16,7 +16,7 @@ If you discover a security vulnerability in Claude Code Templates, please report
 Send details of the vulnerability to [dan.avila7@gmail.com](mailto:dan.avila7@gmail.com) with the subject line "SECURITY: Claude Code Templates Vulnerability Report"
 
 ### GitHub Security Advisories
-You can also report vulnerabilities through [GitHub Security Advisories](https://github.com/davila7/claude-code-templates/security/advisories/new) for this repository.
+You can also report vulnerabilities through [GitHub Security Advisories](https://github.com/RemyLoveLogicAI/claude-code-templates/security/advisories/new) for this repository.
 
 ## What to Include in Your Report
 
@@ -47,10 +47,10 @@ When using Claude Code Templates:
 
 ## Contact Information
 
-- **Maintainer**: Daniel Avila
+- **Maintainer**: [RemyLoveLogicAI](https://github.com/RemyLoveLogicAI)
 - **Website**: [danielavila.me](https://danielavila.me)
 - **Email**: [dan.avila7@gmail.com](mailto:dan.avila7@gmail.com)
-- **GitHub**: [@davila7](https://github.com/davila7)
+- **GitHub**: [@RemyLoveLogicAI](https://github.com/RemyLoveLogicAI)
 
 ## Legal
 
