@@ -47,3 +47,6 @@ coverage
 
 # Deployment
 .vercel
+
+# Local MCP config (personal/local scratch file, not part of the templates system)
+.mcp.json
